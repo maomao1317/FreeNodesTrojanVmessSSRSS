@@ -17,7 +17,7 @@
 
 使用说明:<br>
 （一）使用教程在视频当中，请认真观看视频；如果当前视频说描述的加密连接已经失效请移步到我的GitHub主页访问最近或最新日期的库,地址样式如下：<br>
-		1. 景福maomao@YouTuBe的GitHub主页：<br> 
+		1. maomao@YouTuBe的GitHub主页：<br> 
 			https://github.com/maomao1317
 
 （二）相关最新版工具及地址如下：<br>
